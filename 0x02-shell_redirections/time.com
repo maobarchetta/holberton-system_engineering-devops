@@ -1,5 +1,5 @@
-total 108
-drwxr-xr-x 2 root root 4096 Jun  5 20:21 .
+total 112
+drwxr-xr-x 2 root root 4096 Jun  5 20:29 .
 drwxr-xr-x 4 root root   86 Jun  5 12:50 ..
 -rwxr-xr-x 1 root root   32 Jun  5 06:58 0-hello_world
 -rwxr-xr-x 1 root root   32 Jun  5 06:58 100-empty_casks
@@ -27,4 +27,6 @@ drwxr-xr-x 4 root root   86 Jun  5 12:50 ..
 -rwxr-xr-x 1 root root   91 Jun  5 20:21 7-file
 -rwxr-xr-x 1 root root   32 Jun  5 06:58 8-cwd_state
 -rwxr-xr-x 1 root root   32 Jun  5 06:58 9-duplicate_last_line
--rw-r--r-- 1 root root    0 Jun  5 20:29 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 1603 Jun  5 20:29 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Jun  5 20:29 time.com
+-rw-r--r-- 1 root root    0 Jun  5 20:29 time.com
